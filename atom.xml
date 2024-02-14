@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-13T14:09:53.297Z</updated>
+  <updated>2024-02-14T06:26:45.076Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,36 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客搭建过程</title>
-    <link href="http://example.com/2024/02/13/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
-    <id>http://example.com/2024/02/13/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</id>
-    <published>2024-02-13T14:06:54.000Z</published>
-    <updated>2024-02-13T14:09:53.297Z</updated>
-    
-    <content type="html"><![CDATA[<p>先记着 改天在写</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;先记着 改天在写&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="杂记" scheme="http://example.com/categories/%E6%9D%82%E8%AE%B0/"/>
-    
-    
-    <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
     <title>网站记录</title>
     <link href="http://example.com/2024/02/13/%E7%BD%91%E7%AB%99%E8%AE%B0%E5%BD%95/"/>
     <id>http://example.com/2024/02/13/%E7%BD%91%E7%AB%99%E8%AE%B0%E5%BD%95/</id>
     <published>2024-02-13T13:53:27.000Z</published>
-    <updated>2024-02-14T04:05:01.731Z</updated>
+    <updated>2024-02-14T06:26:45.076Z</updated>
     
     
     
