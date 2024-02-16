@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-14T07:58:58.114Z</updated>
+  <updated>2024-02-14T12:53:07.273Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>对于互联网隐私的观点</title>
-    <link href="http://example.com/2024/02/14/%E5%AF%B9%E4%BA%8E%E4%BA%92%E8%81%94%E7%BD%91%E9%9A%90%E7%A7%81%E7%9A%84%E8%A7%82%E7%82%B9/"/>
-    <id>http://example.com/2024/02/14/%E5%AF%B9%E4%BA%8E%E4%BA%92%E8%81%94%E7%BD%91%E9%9A%90%E7%A7%81%E7%9A%84%E8%A7%82%E7%82%B9/</id>
-    <published>2024-02-14T07:56:52.000Z</published>
-    <updated>2024-02-14T07:58:58.114Z</updated>
+    <title>我的火狐美化配置</title>
+    <link href="http://example.com/2024/02/14/%E6%88%91%E7%9A%84%E7%81%AB%E7%8B%90%E7%BE%8E%E5%8C%96%E9%85%8D%E7%BD%AE/"/>
+    <id>http://example.com/2024/02/14/%E6%88%91%E7%9A%84%E7%81%AB%E7%8B%90%E7%BE%8E%E5%8C%96%E9%85%8D%E7%BD%AE/</id>
+    <published>2024-02-14T12:53:07.000Z</published>
+    <updated>2024-02-14T12:53:07.273Z</updated>
     
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>上网冲浪软件使用方案</title>
+    <link href="http://example.com/2024/02/14/%E4%B8%8A%E7%BD%91%E5%86%B2%E6%B5%AA%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%A1%88/"/>
+    <id>http://example.com/2024/02/14/%E4%B8%8A%E7%BD%91%E5%86%B2%E6%B5%AA%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%A1%88/</id>
+    <published>2024-02-14T12:52:39.000Z</published>
+    <updated>2024-02-14T12:52:39.706Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>普通人要如何保护隐私</title>
+    <link href="http://example.com/2024/02/14/%E7%BD%91%E7%BB%9C%E9%9A%90%E7%A7%81%E7%9B%B8%E5%85%B3%E7%9A%84%E4%B8%80%E7%82%B9%E6%83%B3%E6%B3%95/"/>
+    <id>http://example.com/2024/02/14/%E7%BD%91%E7%BB%9C%E9%9A%90%E7%A7%81%E7%9B%B8%E5%85%B3%E7%9A%84%E4%B8%80%E7%82%B9%E6%83%B3%E6%B3%95/</id>
+    <published>2024-02-14T07:56:52.000Z</published>
+    <updated>2024-02-16T07:29:07.592Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>先来个省流版</p><p>对软件要<strong>隔离</strong>，非必要不<strong>联网</strong><br>你要权限我<strong>不给</strong> ，拥抱<strong>开源</strong>更安心</p><h2 id="隔离"><a href="#隔离" class="headerlink" title="隔离"></a>隔离</h2><h4 id="什么是隔离？隔离有什么用？"><a href="#什么是隔离？隔离有什么用？" class="headerlink" title="什么是隔离？隔离有什么用？"></a>什么是隔离？隔离有什么用？</h4><p>这里的隔离，指的是将软件隔离，什么意思呢？<br>比如说微信要发图片，那么它就得知道<strong>文件的位置</strong>才能发出去。注意这个过程，微信真的<strong>只访问了你发的这个图片</strong>吗，我不知道，但是它拥有<strong>访问所有图片</strong>的权限不是吗？<br>如果我将微信给隔离了呢，我就可以让它只访问我给它访问的文件，其他文件都看不见，这就是是隔离的作用</p><h4 id="如何隔离？"><a href="#如何隔离？" class="headerlink" title="如何隔离？"></a>如何隔离？</h4><p>说完了作用，那么该如何隔离呢？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;先来个省流版&lt;/p&gt;
+&lt;p&gt;对软件要&lt;strong&gt;隔离&lt;/strong&gt;，非必要不&lt;strong&gt;联网&lt;/strong&gt;&lt;br&gt;你要权限我</summary>
+      
     
     
     
