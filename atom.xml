@@ -47,9 +47,9 @@
     <link href="http://example.com/2024/02/14/%E7%BD%91%E7%BB%9C%E9%9A%90%E7%A7%81%E7%9B%B8%E5%85%B3%E7%9A%84%E4%B8%80%E7%82%B9%E6%83%B3%E6%B3%95/"/>
     <id>http://example.com/2024/02/14/%E7%BD%91%E7%BB%9C%E9%9A%90%E7%A7%81%E7%9B%B8%E5%85%B3%E7%9A%84%E4%B8%80%E7%82%B9%E6%83%B3%E6%B3%95/</id>
     <published>2024-02-14T07:56:52.000Z</published>
-    <updated>2024-02-16T07:29:07.592Z</updated>
+    <updated>2024-02-16T11:41:53.213Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>先来个省流版</p><p>对软件要<strong>隔离</strong>，非必要不<strong>联网</strong><br>你要权限我<strong>不给</strong> ，拥抱<strong>开源</strong>更安心</p><h2 id="隔离"><a href="#隔离" class="headerlink" title="隔离"></a>隔离</h2><h4 id="什么是隔离？隔离有什么用？"><a href="#什么是隔离？隔离有什么用？" class="headerlink" title="什么是隔离？隔离有什么用？"></a>什么是隔离？隔离有什么用？</h4><p>这里的隔离，指的是将软件隔离，什么意思呢？<br>比如说微信要发图片，那么它就得知道<strong>文件的位置</strong>才能发出去。注意这个过程，微信真的<strong>只访问了你发的这个图片</strong>吗，我不知道，但是它拥有<strong>访问所有图片</strong>的权限不是吗？<br>如果我将微信给隔离了呢，我就可以让它只访问我给它访问的文件，其他文件都看不见，这就是是隔离的作用</p><h4 id="如何隔离？"><a href="#如何隔离？" class="headerlink" title="如何隔离？"></a>如何隔离？</h4><p>说完了作用，那么该如何隔离呢？</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>先来个省流版</p><p>对软件要<strong>隔离</strong>，非必要不<strong>联网</strong><br>你要权限我<strong>不给</strong> ，拥抱<strong>开源</strong>更安心</p><h2 id="隔离"><a href="#隔离" class="headerlink" title="隔离"></a>隔离</h2><h3 id="什么是隔离？隔离有什么用？"><a href="#什么是隔离？隔离有什么用？" class="headerlink" title="什么是隔离？隔离有什么用？"></a>什么是隔离？隔离有什么用？</h3><p>这里的隔离，指的是将软件隔离，什么意思呢？<br>比如说微信要发图片，那么它就得知道<strong>文件的位置</strong>才能发出去。注意这个过程，微信真的<strong>只访问了你发的这个图片</strong>吗，我不知道，但是它拥有<strong>访问所有图片</strong>的权限不是吗？<br>如果我将微信给隔离了呢，我就可以让它只访问我给它访问的文件，其他文件都看不见，这就是是隔离的作用</p><h3 id="如何隔离？"><a href="#如何隔离？" class="headerlink" title="如何隔离？"></a>如何隔离？</h3><p>说完了作用，那么该如何隔离呢？</p>]]></content>
     
     
       
